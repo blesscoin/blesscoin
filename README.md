@@ -17,6 +17,7 @@ Blesscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - subsidy halves in 1000k blocks (~2 years)
  - ~100 million total coins
  - 1440 blocks to retarget difficulty ( 1 day)
+ - 60 confirms for mining on network
 
 The rest is the same as Bitcoin.
  - 50 coins per block
