@@ -9,11 +9,6 @@ DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 CONFIG += no_include_pwd
 CONFIG += thread
 
-
-BOOST_INCLUDE_PATH = D:/boost_1_53_0
-BOOST_LIB_PATH = D:/boost_1_53_0/stage/lib
-MINIUPNPC_INCLUDE_PATH =C:/deps/miniupnpc-1.8.20130503
-
 # for boost 1.37, add -mt to the boost libraries
 # use: qmake BOOST_LIB_SUFFIX=-mt
 # for boost thread win32 with _win32 sufix
